@@ -30,19 +30,19 @@ Code Forge Live is a collaborative online code Editor built with Next.js, Expres
 To get started with Code Forge Live, follow these steps:
 
 ### Frontend
-bash
+```bash
  Navigate to the `frontend` directory: `cd frontend`
  Install frontend dependencies: `npm install --force`
  Start the frontend development server: `npm run dev -- -p 3005`
  The defult port 3000 is used for backend
-  
+```
 
 ### Backend
-bash
+```bash
  Navigate to the `backend` directory: `cd backend`
  Install backend dependencies: `npm install`
  Start the backend server: `node server.js`
-
+```
 
     
 ## Demo

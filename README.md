@@ -32,8 +32,8 @@ To get started with Code Forge Live, follow these steps:
 ### Frontend
 bash
  Navigate to the `frontend` directory: `cd frontend`
- Install frontend dependencies: `npm install`
- Start the frontend development server: `npm run dev -- -p 3005
+ Install frontend dependencies: `npm install --force`
+ Start the frontend development server: `npm run dev -- -p 3005`
  The defult port 3000 is used for backend
   
 
